@@ -46,8 +46,7 @@ Bruce is a desktop voice assistant with Basic and Advanced modes, offering offli
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Bruce-Voice-Assistant.git
-   cd Bruce-Voice-Assistant
+   git clone https://github.com/veetla-jainath/Bruce-AI-Based-Desktop-Assistant.git
 
 🖥️ Usage
 Choose between Basic and Advanced modes on startup.
